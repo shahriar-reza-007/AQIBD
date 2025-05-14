@@ -1,1 +1,1 @@
-# Bangladesh_Air_Quality_Index_-AQI-
+# Bangladesh_Air_Quality_Index_AQI
